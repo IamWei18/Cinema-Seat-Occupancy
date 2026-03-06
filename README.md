@@ -77,7 +77,7 @@ Generates annotated video, JSON timeline, and CSV reports.
 ## 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/IamWei18/Cinema-Seat-Occupancy.git)
 cd cinema-seat-detection
 ```
 
@@ -412,4 +412,4 @@ MIT License
 - **YOLOv8** by Ultralytics  
 - **Supervision Library** by Roboflow  
 - **EasyOCR** by Jaided AI
->>>>>>> 9560664 (upload codes)
+
