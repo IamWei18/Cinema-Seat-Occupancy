@@ -77,7 +77,7 @@ Generates annotated video, JSON timeline, and CSV reports.
 ## 1. Clone the Repository
 
 ```bash
-git clone [<repository-url>](https://github.com/IamWei18/Cinema-Seat-Occupancy.git)
+git clone https://github.com/IamWei18/Cinema-Seat-Occupancy.git
 cd cinema-seat-detection
 ```
 
