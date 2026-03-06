@@ -1,0 +1,13 @@
+# requirements.txt
+# Required packages for Cinema Seat Occupancy Detection System.
+# Install with: pip install -r requirements.txt
+
+
+ultralytics>=8.0.0
+supervision>=0.14.0
+opencv-python>=4.8.0
+shapely>=2.0.0
+tqdm>=4.65.0
+easyocr>=1.7.0
+pandas>=2.0.0
+numpy>=1.24.0
